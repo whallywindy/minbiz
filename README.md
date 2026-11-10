@@ -1,12 +1,12 @@
 Minbiz — WROSYS | Voice POS That Listens
 
-Company:** Minbiz
+Company: Minbiz
 Product:WROSYS — Voice POS SaaS
 Founder & CTO: John Olawale Olawuwo — 20+ Year Software Engineer
 Stack: PHP, HTML, CSS, JavaScript, Bootstrap, MySQL
 
 
-### Origin Story — Lagos 2023
+Origin Story — Lagos 2023
 
 In 2023, I visited my Mum's book supply business in Lagos. Inventory was in disarray.
 
@@ -48,7 +48,7 @@ USD $, CAD $, GBP £, AUD $, EUR €, NGN ₦, GHS, KES, ZAR, JPY ¥, INR ₹ + 
 
 ---
 
-### Pricing — Pay Once Lifetime
+Pricing — Pay Once Lifetime
 
 - WROSYS Basic — $49 Lifetime — 1 Business, 3 Users, 1000 Products — Walk-in only
 - WROSYS Plus — $98 Lifetime — 1 Business, 10 Users — Wholesalers who GIVE credit
@@ -62,7 +62,6 @@ Live Demo
 
 Watch Voice Demo: [PASTE YOUR AWESOME SCREEN LINK FOR WROSYS HERE]
 
----
 
 Key Files To Check
 
