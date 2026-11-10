@@ -1,6 +1,6 @@
 <?php
 session_start();
-include '../db_connect.php';
+include '../db.php';
 require_once __DIR__ . '/includes/dashboard_route.php';
 
 // =============================================
