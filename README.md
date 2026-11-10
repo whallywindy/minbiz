@@ -46,21 +46,9 @@ Global — 35 Currencies
 USD $, CAD $, GBP £, AUD $, EUR €, NGN ₦, GHS, KES, ZAR, JPY ¥, INR ₹ + 24 more.
 1 business, up to 15 users.
 
----
-
-Pricing — Pay Once Lifetime
-
-- WROSYS Basic — $49 Lifetime — 1 Business, 3 Users, 1000 Products — Walk-in only
-- WROSYS Plus — $98 Lifetime — 1 Business, 10 Users — Wholesalers who GIVE credit
-- WROSYS Extra — $147 Lifetime — 1 Business, 15 Users — Importers who OWE suppliers
-
-Stack 2 codes = Tier 2, Stack 3 = Tier 3. 60-day refund via AppSumo.
-
-
-
 Live Demo
 
-Watch Voice Demo: [PASTE YOUR AWESOME SCREEN LINK FOR WROSYS HERE]
+Watch Voice Demo: 
 
 
 Key Files To Check
