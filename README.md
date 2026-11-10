@@ -1,7 +1,7 @@
 Minbiz — WROSYS | Voice POS That Listens
 
 Company: Minbiz
-Product:WROSYS — Voice POS SaaS
+Product: WROSYS — Voice POS SaaS
 Founder & CTO: John Olawale Olawuwo — 20+ Year Software Engineer
 Stack: PHP, HTML, CSS, JavaScript, Bootstrap, MySQL
 
