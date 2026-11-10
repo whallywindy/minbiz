@@ -4,7 +4,7 @@
 // SKU is now unique PER TENANT, not global
 
 session_start();
-include '../db_connect.php';
+include 'db.php';
 include 'check_subscription.php';
 require_once __DIR__ . '/includes/dashboard_route.php';
 
