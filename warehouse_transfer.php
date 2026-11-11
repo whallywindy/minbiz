@@ -4,9 +4,7 @@
 // SKU is now unique PER TENANT, not global
 
 session_start();
-include 'db.php';
-include 'check_subscription.php';
-require_once __DIR__ . '/includes/dashboard_route.php';
+include 'dbconnect.php';
 
 // Check if user is logged in
 if (!isset($_SESSION['user_id'])) {
